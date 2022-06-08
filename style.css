@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+    padding: 0%;
+}
+.hlavni-text {
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+img {
+    height: 950px;
+    margin-left: 50px;
+}
+.prvni {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.stranka {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stranka a {
+    color: black;
+}
+
+.posledni{
+    margin-right: 880px;
+    margin-top: 35px;
+}
+
+h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 120px;
+}
+
+a {
+    color: white;
+    font-size: 100px;
+    margin-top: 400px;
+    padding-right: 20px;
+    text-decoration: none;
+}
